@@ -6,7 +6,7 @@ I live in Seoul, the capital of Republic of Korea
 
 ### Profession
 
-I am a gynecologic oncologist. I am studying coding nowadays.
+I am a gynecologic oncologist. I am studying coding nowadays. I am new in GitHub
 
 ### Contact
 
