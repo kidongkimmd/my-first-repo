@@ -1,15 +1,3 @@
-# Kidong Kim
-
-### Geography
-
-I live in Seoul, the capital of Republic of Korea
-
-### Profession
-
-I am a gynecologic oncologist. I am studying coding nowadays. I am new in GitHub
-
-### Contact
-
-The best way to get in touch with me is sending me e-mail *kidong.kim.md@gmail.com*
-
-
+# The title of the project : Make guessinggame
+## The date and time at which make was run : 14:17 7th NOV 2019
+** The number of lines of code contained in guessinggame.sh : 22 **
